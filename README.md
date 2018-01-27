@@ -21,9 +21,9 @@ _Logs Analysis_ makes use of a Virtual machine that can be installed as follows:
 * Install [Vagrant](https://www.vagrantup.com/downloads.html)
 * Download the [VM configuration](https://d17h27t6h515a5.cloudfront.net/topher/2017/August/59822701_fsnd-virtual-machine/fsnd-virtual-machine.zip)
 * Start the virtual machine: 
-	** `cd vagrant ` to open the vagrant subdirectory
-	** `vagrant up` to download and install the Linux operating system
-	** `vagrant ssh` to log in to the virtual machine
+	* `cd vagrant ` to open the vagrant subdirectory
+	* `vagrant up` to download and install the Linux operating system
+	* `vagrant ssh` to log in to the virtual machine
 
 ### Database
 
